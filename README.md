@@ -63,7 +63,16 @@ http://localhost:3000
 📸 Screenshots
 Home Page
 
+![Home page](https://github.com/user-attachments/assets/c4f22f7a-d5bd-4ec2-b953-1f51d3ee6b8f)
+
+
 Weather Display
+
+![Realtime Data_Vita](https://github.com/user-attachments/assets/2e3015a3-2277-41a3-8532-6aab6043bd21)
+
+![Realtime Data_Kolhapur](https://github.com/user-attachments/assets/4d0fb8b4-0eb2-4aa5-a278-049f157847e3)
+
+
 
 📈 Future Enhancements
 Add support for multiple languages.
