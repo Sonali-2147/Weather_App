@@ -1,7 +1,11 @@
 Dynamic Weather Website 🌤️
+
 This project is a dynamic weather application built using HTML, CSS, and Node.js. It fetches real-time weather data from the OpenWeather API and provides users with current weather conditions, forecasts, and additional information like the current day, date, and time.
 
+Weather App Deployed on Netlify: https://sonalik.netlify.app/
+
 🌟 Features
+
 User-friendly interface for entering location details.
 Real-time weather data using the OpenWeather API.
 Displays:
@@ -9,10 +13,13 @@ Current weather conditions (temperature, humidity, wind speed, etc.).
 Weather forecasts.
 Current day, date, and time.
 Backend built using Node.js and Express.js for handling API requests and server-side logic.
+
 🛠️ Technologies Used
+
 Frontend: HTML, CSS
 Backend: Node.js, Express.js
 API: OpenWeather API
+
 📂 Project Structure
 .
 ├── public
@@ -25,12 +32,16 @@ API: OpenWeather API
 ├── server.js                 # Entry point for Node.js server
 ├── package.json              # Project dependencies and scripts
 └── README.md                 # Project documentation
+
 🚀 Getting Started
+
 Follow these instructions to set up the project locally:
 
 Prerequisites
+
 Node.js installed on your machine
 An OpenWeather API key. Sign up at OpenWeather to get your free API key.
+
 Installation
 Clone the repository:
 
