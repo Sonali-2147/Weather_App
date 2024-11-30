@@ -1,8 +1,8 @@
-#Dynamic Weather Website 🌤️
+Dynamic Weather Website 🌤️
 
 This project is a dynamic weather application built using HTML, CSS, and Node.js. It fetches real-time weather data from the OpenWeather API and provides users with current weather conditions, forecasts, and additional information like the current day, date, and time.
 
-#Weather App Deployed on Netlify: https://sonalik.netlify.app/
+Weather App Deployed on Netlify: https://sonalik.netlify.app/
 
 🌟 Features
 
