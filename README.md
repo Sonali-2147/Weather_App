@@ -58,7 +58,8 @@ Start the server:
 node server.js
 Open your browser and navigate to:
 
-https://sonalik.netlify.app/
+http://localhost:3000
+
 📸 Screenshots
 Home Page
 
